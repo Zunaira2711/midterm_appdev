@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909577731524",
+    "project_id": "cse450-midterm",
+    "storage_bucket": "cse450-midterm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909577731524:android:dc9006dcaa216c5d6c3891",
+        "android_client_info": {
+          "package_name": "com.iba.midterm_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC25sGr9ri_OTJsxSOXU-soxO5DRQMBrow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
